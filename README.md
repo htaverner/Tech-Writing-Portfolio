@@ -1,4 +1,4 @@
-# Tech Writing Portfolio – [Your Name]
+# Tech Writing Portfolio – Harry Taverner
 
 Welcome to my technical writing portfolio. I'm a former linguist and educator turned aspiring technical writer, with a deep interest in games, software, and clear communication.
 
