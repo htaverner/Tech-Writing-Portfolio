@@ -18,6 +18,6 @@ I hold a PhD in English Linguistics and have over 10 years of experience teachin
 - [GameHub API Documentation](gamehub-api.md)
 
 ## Contact
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+📧 harrytaverner@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/htaverner)  
+💻 [GitHub](https://github.com/htaverner)
